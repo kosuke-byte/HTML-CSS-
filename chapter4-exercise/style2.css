@@ -20,17 +20,23 @@
   width: 100%;
   display: flex;
   justify-content: center;
+  margin: 0 auto;
 }
 
 .blog{
   width: 500px;
   height: 1400px;
   background-color: limegreen;
-  margin: 0 auto;
 }
 
-.sidebar{
-  width: 960px;
+.sidebar-left{
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
+}
+
+.sidebar-right{
+  width: 230px;
   height: 1400px;
   background-color: palegreen;
 }
