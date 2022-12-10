@@ -10,8 +10,22 @@ header {
   background-image: url(img/mv.jpg);
   background-size: cover;
   background-position: bottom;
+  margin:0 0 50px 0;
 }
 
 .header-text {
   padding: 20px;
+}
+
+main{
+  width: 840px;
+  height: auto;
+}
+
+.blog {
+  border: 1px solid;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+  border-left-width: 0
 }
